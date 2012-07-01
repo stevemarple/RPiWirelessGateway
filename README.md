@@ -1,6 +1,6 @@
 # RPiWirelessGateway
 
-A wireless gateway for the Raspberry Pi wireless.
+A wireless gateway for the Raspberry Pi.
 
 ## Preliminary
 
